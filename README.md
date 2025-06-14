@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy Thowers
 
-<!--
-**Thowers/Thowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Ingeniero de Software en formación (octavo semestre) con un fuerte enfoque en el desarrollo de bots inteligentes, automatización y construcción de soluciones modulares usando tecnologías como Python, Discord API, Spotipy y MongoDB. Me apasiona el diseño de software funcional que integre IA, datos y experiencia de usuario de forma fluida.
 
-Here are some ideas to get you started:
+Además, tengo formación como Tecnólogo en Contabilidad y Finanzas, lo cual me da una perspectiva analítica orientada al detalle, ideal para trabajar con datos, optimización de procesos y desarrollo de soluciones tecnológicas sólidas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Áreas de enfoque
+- Desarrollo de bots modulares para Discord
+- Automatización de tareas con Python
+- Integración de APIs (Spotify, YouTube, OpenAI)
+- Aplicaciones web con Django
+- Bases de datos (MongoDB, PostgreSQL)
+- Música digital y procesamiento de audio
+
+## 🛠️ Tecnologías
+`Python` • `JavaScript` • `Django` • `MongoDB` • `SQL` • `Spotipy` • `Transformers` • `FastAPI` • `Railway` • `Git`
+
+## 🎯 Objetivo
+Actualmente busco oportunidades de pasantía o puestos junior donde pueda aportar soluciones prácticas, seguir creciendo profesionalmente y contribuir con proyectos innovadores.
+
+---
