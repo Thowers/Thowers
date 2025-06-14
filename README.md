@@ -7,10 +7,9 @@ Además, tengo formación como Tecnólogo en Contabilidad y Finanzas, lo cual me
 ## 🚀 Áreas de enfoque
 - Desarrollo de bots modulares para Discord
 - Automatización de tareas con Python
-- Integración de APIs (Spotify, YouTube, OpenAI)
+- Integración/Creación de APIs
 - Aplicaciones web con Django
-- Bases de datos (MongoDB, PostgreSQL)
-- Música digital y procesamiento de audio
+- Bases de datos
 
 ## 🛠️ Tecnologías
 `Python` • `JavaScript` • `Django` • `MongoDB` • `SQL` • `Spotipy` • `Transformers` • `FastAPI` • `Railway` • `Git`
