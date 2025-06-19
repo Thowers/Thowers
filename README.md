@@ -11,7 +11,7 @@ Además, tengo formación como Tecnólogo en Contabilidad y Finanzas, lo cual me
 - Bases de datos
 
 ## 🛠️ Tecnologías
-`Python` • `JavaScript` • `Django` • `MongoDB` • `SQL` • `Spotipy` • `Transformers` • `FastAPI` • `Railway` • `Git`
+`Python` • `JavaScript` • `Django` • `MongoDB` • `SQL`  • `FastAPI` • `Railway` • `Git`
 
 ## 🎯 Objetivo
 Actualmente busco oportunidades de pasantía o puestos junior donde pueda aportar soluciones prácticas, seguir creciendo profesionalmente y contribuir con proyectos innovadores.
